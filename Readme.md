@@ -110,4 +110,3 @@ To further amplify the strategic value derived from this dashboard, the followin
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
-"# PowerBI-Pathao-Analysis" 

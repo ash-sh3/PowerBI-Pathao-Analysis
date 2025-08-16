@@ -17,7 +17,6 @@
 <div align="center">
 <img src="assets/Key Metrics.jpg" alt="Sales Dashboard Screenshot" width="850"/>
 <img src="assets/Ride Analytics.jpg" alt="Sales Dashboard Screenshot" width="850"/>
-<img src="assets/Rider Insights.jpg" alt="Sales Dashboard Screenshot" width="850"/>
 <img src="assets/Driver Performance.jpg" alt="Sales Dashboard Screenshot" width="850"/>
 <br>
 </div>
